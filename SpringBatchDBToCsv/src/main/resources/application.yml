@@ -1,0 +1,12 @@
+spring:
+  batch:
+    jdbc:
+      initialize-schema: ALWAYS
+  datasource:
+    password: root
+    url: jdbc:mysql://localhost:3306/csvtodb
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
