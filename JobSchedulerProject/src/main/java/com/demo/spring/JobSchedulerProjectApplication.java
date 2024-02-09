@@ -15,11 +15,11 @@ public class JobSchedulerProjectApplication {
 		SpringApplication.run(JobSchedulerProjectApplication.class, args);
 	}
 
-//	@Bean
-//	public ThreadPoolTaskScheduler taskScheduler() {
-//		ThreadPoolTaskScheduler scheduler = new ThreadPoolTaskScheduler();
-//	scheduler.setPoolSize(20); // Set the desired pool size
-//		return scheduler;
-//	}
+	@Bean
+	public ThreadPoolTaskScheduler taskScheduler() {
+		ThreadPoolTaskScheduler scheduler = new ThreadPoolTaskScheduler();
+	scheduler.setPoolSize(20); // Set the desired pool size
+		return scheduler;
+	}
 
 }

@@ -22,10 +22,9 @@ public class Scheduler {
 	// @Scheduled(fixedRate = 3000,initialDelay=1000)
 //	@Scheduled(fixedRateString = "PT02S",initialDelay=1000)
 	@Async // For Parallel Execution
-	@Scheduled(cron = "*/2 * * * * *") // For Every 2 second it should execute
-	// @Scheduled(cron= "0 */2 * * * *") //For every 2 minutes it should execute
-	// @Scheduled(cron= "0 10 20 * * TUE") //On Tuesday, At 8:10 pm it should
-	// execute
+	@Scheduled(cron = "*/2 * * * * * ") // For Every 2 second it should execute
+	// @Scheduled(cron= "0 */2 * * *  *") //For every 2 minutes it should execute
+	// @Scheduled(cron= "0 10 20 * *  TUE") //On Tuesday, At 8:10 pm it should execute
 	// @Scheduled(cron="${cron.expression.value}") //From App Properties
 
 	public void scheduler() throws InterruptedException {
