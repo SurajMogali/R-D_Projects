@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Suraj
+Build-Jdk: 17.0.9
+Implementation-Title: myPortal
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javatechie
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/myPortal
+Created-By: Maven Integration for Eclipse
+
