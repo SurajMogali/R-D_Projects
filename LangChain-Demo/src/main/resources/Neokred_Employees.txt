@@ -1,0 +1,60 @@
+
+Neokred Employee Details
+
+1.	Backend Developers
+•	Tejaswi
+•	Bharat
+•	Honnur Ali  
+•	Suraj
+
+2.	FullStack Developers
+•	Bhavesh
+•	Karthick
+•	Sridhar
+
+3.	DevOps
+•	Sridhar AWS
+•	Altaf
+
+4.	QA
+•	Sasi
+•	Sabareesh
+•	Manoj
+
+5.	Product Managers
+•	Amith
+•	Avani
+•	Shreyansh
+
+6.	Project Managers
+•	Sanjay
+•	Vikram
+
+
+Products of Neokred
+
+collectBot: 
+Your Gateway to Seamless Payment Processing Streamline your payment operations with CollectBot, the superior payment processing switch that seamlessly integrates into your bank's CBS system. Our innovative platform routes transactions across different issuing and acquiring banks, ensuring frictionless payments for your customers. With CollectBot, you gain access to a user-friendly Merchant Management Framework that simplifies merchant acquisition and lifecycle management. Our intuitive interface empowers you to effortlessly onboard new merchants, manage their profiles, and track their transactions with ease. 
+Collectbot is a comprehensive product that offers solutions for both pay-ins and payouts. It functions as a versatile platform or software designed to facilitate and manage payment transactions in both directions. For "pay-in" functionalities, Collectbot provides features to assist businesses in receiving payments from customers or clients. This includes various payment methods such as credit/debit cards, online payments, bank transfers, or other forms of incoming transactions. The system streamlines the process, making it easier for businesses to accept and process payments efficiently. Regarding "payouts," Collectbot enables businesses to efficiently distribute funds to individuals or entities. This involves functionalities such as automating payments, managing bulk transactions, selecting different payout methods (bank transfers, digital wallets, etc.), ensuring compliance, and offering reporting tools for financial tracking and management. Overall, Collectbot serves as an integrated solution catering to both incoming and outgoing financial transactions, providing businesses with a robust platform to effectively manage pay-ins and payouts. Assurance Points for each product: Collectbot: 1. Connected Banking and Virtual Account Number: Make payments and collections effortlessly through your bank account. 2. Multi-Bank Integration: Enjoy the flexibility to choose from a growing network of partner banks. 3. Tailored for Diverse Needs: Cater to a wide range of users, including banks, brands, and individuals. 4. Empowering Banks: Neokred partners with banks to provide innovative solutions, including TSP and connected banking models. 5. Serving Brands: Collectbot offers Connected Banking and VAN-based options to streamline brand transactions. 6. Simplifying Individual Finance: Manage bills, transfers, and online purchases with ease. USP: 1. Deploy on Premise (optional) 2. Connected Banking Solution 3. Automated Collection and Payments 4. One integration for multiple mode of collections & payouts 5. Catered to all types of Businesses Industries we Collectbot cater to: 
+E-commerce: Facilitating online transactions for buying and selling goods and services. 
+Retail: Enabling in-store and online payments for traditional brick-and-mortar retailers. 
+Hospitality: Supporting payments for hotels, travel agencies, and other hospitality services. 
+Education: Facilitating fee payments for schools, colleges, and online courses. 
+Healthcare: Handling payments for medical services, clinics, and online health platforms. 
+Subscription Services: Managing recurring payments for subscription-based businesses. 
+Telecommunications: Handling mobile recharge and bill payments for telecom services. 
+Event Management: Managing ticket sales and payments for events, conferences, and concerts. 
+Non-profit Organizations: Facilitating online donations for charitable organizations. 
+Digital Goods and Services: Supporting payments for digital products, software, and online services. 
+Insurance: Handling premium payments for insurance policies. 
+Real Estate: Facilitating transactions for property rentals, sales, and related services. 
+Automotive: Supporting payments for vehicle purchases, services, and accessories. 
+
+•	Datai: 
+1.What is the Datai Expense Management System (SDK)? The Expense Management System (SDK) is a powerful software development kit designed to assist developers in seamlessly integrating financial data into their applications. It encompasses features such as balance fetch, income and spend analysis, transaction history, bill reminders, offers and discounts, and budgeting. 2. What are the benefits of using the Datai Expense Management System (SDK)? The Expense Management System (SDK) offers numerous advantages to developers, including simplified development processes, heightened user engagement, enhanced data security, and an improved overall user experience. 3.What are the different features of the Datai Expense Management System (SDK)? The Expense Management System (SDK) provides a comprehensive suite of features, including: Balance Fetch: Retrieve user's bank balance from various financial institutions. Income and Spend Analysis: Analyze user's income and expenses for valuable spending insights. Location Tracking: Track user's location to offer insights into spending patterns. Transaction History: Present a detailed history of user transactions. Bill Reminders: Send timely reminders for upcoming bills and payments. Offers and Discounts: Track and showcase offers, discounts, and promotions from various brands. Budgeting: Empower users to set spending limits and monitor their financial progress. 4.How does the Datai Expense Management System (SDK) work? Developers seamlessly integrate the SDK into their applications. Users grant consent for data sharing, and the SDK securely fetches and processes the information to provide valuable financial insights. 5. How can I get started with the Datai Expense Management System (SDK)? Developers can access documentation and tutorials on Neokred's website, providing stepby-step guidance on integrating the SDK into their applications. User-Specific FAQs: 6. How can I use the Datai Expense Management System (SDK) to manage my finances? The Expense Management System (SDK) enables developers to create applications that offer users a comprehensive overview of their finances. Users can track income and expenses, set budgets, receive bill reminders, and discover relevant offers. 7.What data does the Datai Expense Management System (SDK) collect from me?
+The SDK collects user data, such as SMS messages, emails, and location information, with user consent. This information is used to provide personalized financial insights and offers.
+8.How does the Datai Expense Management System (SDK) protect my data? Neokred prioritizes data security, implementing industry-standard practices. All data is encrypted, stored securely, and access is restricted to authorized personnel. 9.Can I control how my data is used by the Datai Expense Management System (SDK)? Yes, users have complete control over their data. They can grant or revoke consent at any time and disable specific features involving data collection. 10. Can I opt out of data sharing with the Datai Expense Management System (SDK)? Yes, users can opt out of data sharing by declining consent or uninstalling applications that utilize the SDK. Developer-Specific FAQs: 11. How can I integrate the Datai Expense Management System (SDK) into my application? Neokred provides comprehensive documentation and tutorials to guide developers through the integration process. The SDK is designed to be easy to integrate and customize. 12. What are the technical requirements for using the Data. Expense Management System (SDK)? The SDK supports various programming languages and platforms, ensuring compatibility with a wide range of applications. Developers can refer to the technical documentation for specific requirements. 13.Can I customize the Datai Expense Management System (SDK) to fit my application's needs? Absolutely. The Expense Management System (SDK) offers a flexible framework that allows developers to customize its features and appearance to align with their application's design and functionality. 14.What are the pricing options for the Datai Expense Management System (SDK)? Neokred offers a variety of pricing plans to suit different developer needs and application usage. Developers are encouraged to contact the Neokred sales team to discuss pricing options. 15.Can I get support for using the Datai Expense Management System (SDK)? Neokred provides dedicated technical support to assist developers with any questions or issues they may encounter during integration or application development.
+
+
+
+

@@ -1,0 +1,13 @@
+server:
+  port: 8084
+  
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/aggregationdb
+#It removes the default value of the field
+  jackson:
+    default-property-inclusion: non_default
+     
+      
+      

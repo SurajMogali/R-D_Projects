@@ -1,0 +1,18 @@
+server:
+  port: 9090
+spring:
+  jpa:
+    show-sql: true
+  user:
+    read:
+      datasource:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        jdbc-url: jdbc:mysql://localhost:3306/userdbread
+        password: root
+        username: root
+    write:
+      datasource:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        jdbc-url: jdbc:mysql://localhost:3306/userdbwrite
+        password: root
+        username: root
