@@ -51,12 +51,15 @@ public class PersonController {
 
     @GetMapping("/persons")
     public List<Person> getPersonsPerPage(@RequestParam int pageNumber, @RequestParam int pageSize) {
+    	
+    	//pagesize=no of documents per page
+    	//pageNumber=current page number
         AggregationOperation skipOperation = Aggregation.skip((long) pageNumber * pageSize);
         AggregationOperation limitOperation = Aggregation.limit(pageSize);
 
         // Aggregation
         Aggregation aggregation = Aggregation.newAggregation(
-
+        		
                 skipOperation,
                 limitOperation
         );

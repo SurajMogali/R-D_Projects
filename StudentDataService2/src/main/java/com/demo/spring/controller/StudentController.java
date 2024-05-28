@@ -52,8 +52,9 @@ public class StudentController {
 	}
 
 	@DeleteMapping(path = "/deleteStudent/{studentId}") 
-	public void deleteStudent(@PathVariable Integer studentId) throws NotFoundException {
-		studentService.deleteStudent(studentId);
+	public ResponseEntity<String> deleteStudent(@PathVariable Integer studentId) throws NotFoundException {
+		return studentService.deleteStudent(studentId);
+		
 	}
 
 }

@@ -1,0 +1,12 @@
+
+d
+java:S1192"IDefine a constant instead of duplicating this literal "customer" 3 times.(©Šıùÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+7
+java:S3864"!Remove this use of "Stream.peek".(Ÿ¨Ş
+<
+java:S3864"!Remove this use of "Stream.peek".(ñÄæ¥ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ÿ¨Ş
+E	java:S106$"+Replace this use of System.out by a logger.(‡²Æşùÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(‡²Æşùÿÿÿÿ

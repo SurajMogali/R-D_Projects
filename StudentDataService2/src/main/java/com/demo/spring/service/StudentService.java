@@ -66,9 +66,22 @@ public class StudentService {
 
 	}
 
-	public ResponseEntity<String> deleteStudent(Integer studentId) throws NotFoundException {
+	public ResponseEntity<String> deleteStudent(Integer studentId) {
+		Optional<Student> studOp=studentRepository.findById(studentId);
+		if(studOp.isPresent())
+		{
+			studentRepository.deleteById(studentId);
+			return ResponseEntity.ok("Student deleted");
+			
+		}
+		else
+		{
+			
+			return ResponseEntity.ok("No Such Student found");
+		
+		}
 
-		studentRepository.deleteById(studentId);
-		return ResponseEntity.ok("Student deleted");
+		
+		
 	}
 }
