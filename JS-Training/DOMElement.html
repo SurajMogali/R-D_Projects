@@ -1,0 +1,63 @@
+<!-- Creating DOM element -->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Document</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script>
+        function createDOMButton(){
+            var btnRef=document.createElement("button"); //<button></button>
+            var h2Ref=document.createElement('h2')
+
+            btnRef.innerText="Remove Javascript UI";
+            h2Ref.innerText="UI is developed by Suraj"
+
+            btnRef.style.color="white";
+            btnRef.style.border="none";
+            btnRef.style.padding="10px 20px";
+            btnRef.style.backgroundColor="darkred";
+            btnRef.onclick=function(){
+                h2Ref.style.color="green";
+                h2Ref.remove();
+                btnRef.remove();
+
+
+
+            }
+
+
+
+
+
+            document.getElementById('body').appendChild(btnRef)
+            document.getElementById('body').appendChild(h2Ref)
+        }
+
+        function createHTMLButton(){
+            var btnRef=document.createElement("button"); //<button></button
+            btnRef.innerText="HTMLButton";
+
+
+            document.getElementById('body').appendChild(btnRef)
+        }
+
+
+    </script>
+    
+</head>
+<body>
+    <body id="body">
+        <h2> DOM Element</h2>
+        <button onClick="createHTMLButton()">Create HTML Button</button>
+        <button onClick="createDOMButton()">Create DOM Button</button>
+    </body>
+
+
+    
+</body>
+</html>

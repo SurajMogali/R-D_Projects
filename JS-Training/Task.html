@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+    <title>Document</title>
+    <style>
+        div{
+            text-align:center;
+            margin-top:50px;
+        }
+        button{
+            margin-right:30px;
+        }
+
+
+    </style>
+    <script>
+        function changeImageToAngular(){
+            var imageRef = document.getElementById("image")
+            imageRef.src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"
+        }
+        function changeImageToReact(){
+            var imageRef = document.getElementById("image")
+            imageRef.src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/800px-React_Logo_SVG.svg.png"
+        }
+    </script>
+</head>
+<body>
+    <div>
+        <img
+        id="image"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/800px-React_Logo_SVG.svg.png" width="300",height="300"/>
+        <br/> <br/>
+        <button onClick="changeImageToReact()">React</button>
+
+        <button onClick="changeImageToAngular()">Angular</button>
+    </div>
+    
+</body>
+</html>
